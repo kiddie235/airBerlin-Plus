@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">AirBerlin-Plus</string>
+    <string name="app_name">AirBerlin Plus</string>
+
+    <!-- string resources for each fragment's header text -->
+    <string name="fragment_addflight_header">Retrieve your booking</string>
+    <string name="fragment_lounge_header">Search For Lounges</string>
+    <string name="fragment_tsawait_header">Go Through Airport Security</string>
+
+    <!-- string resources for each fragment's tab text -->
+    <string name="tab_addflight">My Flights</string>
+    <string name="tab_lounge">Lounge</string>
+    <string name="tab_tsawait">Wait Time</string>
+    
+    <!-- hints for fragment_add_flight search editTexts -->
+    <string name="last_name">Last Name</string>
+    <string name="confirmation_num">Confirmation #</string>
+
+    <!-- button texts for fragment_add_flight -->
+    <string name="retrieve_flight">Retrieve</string>
 </resources>
+
