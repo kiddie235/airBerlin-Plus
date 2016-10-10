@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airport_lounges>
+
+  <location country="Germany">
+    <city name="Berlin">
+      <airport code="TXL">Berlin Tegel Airport</airport>
+      <lounge_name>Air France Lounge</lounge_name>
+      <lounge_location>Terminal A, 3rd Floor</lounge_location>
+      <lounge_hours>04:45-21:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Düsseldorf">
+      <airport code="DUS">Düsseldorf  Airport</airport>
+      <lounge_name>Air Berlin Lounge</lounge_name>
+      <lounge_location>Area C non-Schengen</lounge_location>
+      <lounge_hours>06:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="DUS">Düsseldorf  Airport</airport>
+      <lounge_name>Hugo Junkers Lounge</lounge_name>
+      <lounge_location>Area B Schengen</lounge_location>
+      <lounge_hours>05:15-21:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Wi-Fi, Shower facilities,Business center with PC and internet</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Frankfurt">
+      <airport code="FRA">Frankfurt  Airport</airport>
+      <lounge_name>Air France Lounge</lounge_name>
+      <lounge_location>Schengen zone, behind Gate 24</lounge_location>
+      <lounge_hours>Summer 05:45-20:15, Winter 04:45-19:45</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Hamburg">
+      <airport code="HAM">Hamburg  Airport</airport>
+      <lounge_name>Airport Lounge</lounge_name>
+      <lounge_location>Airport Plaza, 3rd level - airside</lounge_location>
+      <lounge_hours>05:30-21:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Hannover">
+      <airport code="HAJ">Hannover  Airport</airport>
+      <lounge_name>Karl Jatho Lounge</lounge_name>
+      <lounge_location>Landside between Terminal A and B</lounge_location>
+      <lounge_hours>04:45-21:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="HAJ">Hannover  Airport</airport>
+      <lounge_name>Hannover Club  Lounge</lounge_name>
+      <lounge_location>Terminal C, 1st Floor</lounge_location>
+      <lounge_hours>24 hours a day</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Munich">
+      <airport code="MUC">Munich  Airport</airport>
+      <lounge_name>Atlantic Lounge</lounge_name>
+      <lounge_location>Terminal 1, Departure Hall C, Level 03</lounge_location>
+      <lounge_hours>06:00-23:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="MUC">Munich  Airport</airport>
+      <lounge_name>Europa Lounge</lounge_name>
+      <lounge_location>Terminal 1, Departure Hall D, Level 05</lounge_location>
+      <lounge_hours>Mon-Fri 07:00-20:30, Sat 8:00-19:00, Sun 09:00-20:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Nuremberg">
+      <airport code="HAM">Nuremberg  Airport</airport>
+      <lounge_name>Noris Sky Lounge</lounge_name>
+      <lounge_location>Gate 8</lounge_location>
+      <lounge_hours>04:30-23:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Wi-Fi, PC, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Saarbrücken">
+      <airport code="SCN">Saarbrücken  Airport</airport>
+      <lounge_name>SCN Business Class Lounge</lounge_name>
+      <lounge_location>At the gates, security area</lounge_location>
+      <lounge_hours>During airport operation hours</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Stuttgart">
+      <airport code="STR">Stuttgart  Airport</airport>
+      <lounge_name>Executive Club Lounge</lounge_name>
+      <lounge_location>Terminal 1, lounge area</lounge_location>
+      <lounge_hours>Mon-Fri and Sun 05:30-20:30, Sat 05:30-19:30</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines, Shower facilities</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Sylt">
+      <airport code="GWT">Sylt  Airport</airport>
+      <lounge_name>Sylt Lounge</lounge_name>
+      <lounge_location>Departure level</lounge_location>
+      <lounge_hours>During flight operation hours</lounge_hours>
+      <lounge_facilities>Non-alcholic beverages, Prosecco, Snacks, Newspapers, Free WLAN</lounge_facilities>
+      <other_info></other_info>
+    </city>
+  </location>
+
+  <location country="International">
+    <city name="Abu Dhabi">
+      <airport code="AUH">Abu Dhabi International Airport</airport>
+      <lounge_name>Etihad Business Class Lounge</lounge_name>
+      <lounge_location>Gate area, Terminal 1</lounge_location>
+      <lounge_hours>From 3 hours prior to departure</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, International buffet, Free Wi-Fi, Newspapers and Magazines, Shower facilities, Family room, Six senses Spa</lounge_facilities>
+      <other_info>For Business Platinum Class passengers and Topbonus Platinum Cardholders</other_info>
+
+      <airport code="AUH">Abu Dhabi International Airport</airport>
+      <lounge_name>AL Reem Lounge</lounge_name>
+      <lounge_location>Gate area, Terminal 1</lounge_location>
+      <lounge_hours>From 3 hours prior to departure</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, International buffet, Free Wi-Fi, Newspapers and Magazines, Shower facilities, Family room, Six senses Spa</lounge_facilities>
+      <other_info>For Topbonus Gold Cardholders</other_info>
+    </city>
+
+    <city name="Alicante">
+      <airport code="ALC">Alicante-Elche Airport</airport>
+      <lounge_name>Salfa Ifach</lounge_name>
+      <lounge_location>Airside - after security control, 3rd level</lounge_location>
+      <lounge_hours>06:00-24:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Athens">
+      <airport code="ATH">Athens International Airport</airport>
+      <lounge_name>CIP Lounge</lounge_name>
+      <lounge_location>Departure lounge at gate B31</lounge_location>
+      <lounge_hours>04:20-20:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Barcelona">
+      <airport code="">Barcelona-El Prat Airport</airport>
+      <lounge_name>Pau Casals</lounge_name>
+      <lounge_location>Terminal 1</lounge_location>
+      <lounge_hours>05:00-22:15 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks,  Wi-Fi, TV, Newspapers and Magazines, Shower facilities</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Bilbao">
+      <airport code="BIO">Bilbao Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Departures level, 2nd floor</lounge_location>
+      <lounge_hours>Mon-Fri 05:30-21:30, Sat/Sun 06:00-21:30</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Billund">
+      <airport code="BLL">Billund Airport</airport>
+      <lounge_name>King Amlet Lounge</lounge_name>
+      <lounge_location>Departure area</lounge_location>
+      <lounge_hours>Open daily from 4:45 a.m. until the last departure</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Bologna">
+      <airport code="BLQ">Bolgna Guglielmo Marconi Airport</airport>
+      <lounge_name>Marconi Business Lounge</lounge_name>
+      <lounge_location>Departure area</lounge_location>
+      <lounge_hours>05:00-21:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Boston">
+      <airport code="BOS">Boston Logan International Airport</airport>
+      <lounge_name>Air France Lounge</lounge_name>
+      <lounge_location>Departure level, Terminal E, Level 3</lounge_location>
+      <lounge_hours>01:00-23:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free W-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Budapest">
+      <airport code="BUD">Budapest Ferenc Liszt International Airport</airport>
+      <lounge_name>Sky Court Lounge</lounge_name>
+      <lounge_location>Terminal 2, Gallery level</lounge_location>
+      <lounge_hours>05:00-21:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Fax, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Cancun">
+      <airport code="CUN">Cancun International Airport</airport>
+      <lounge_name>Mera Business Lounge</lounge_name>
+      <lounge_location>Area 3, Departure level</lounge_location>
+      <lounge_hours>08:00-21:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines, Massage chairs</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Catania">
+      <airport code="CTA">Catania-Fontanarossa Airport</airport>
+      <lounge_name>Sala Bellini</lounge_name>
+      <lounge_location>Departure area</lounge_location>
+      <lounge_hours>05:30-21:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Chicago">
+      <airport code="ORD">Chicago O'Hare International Airport</airport>
+      <lounge_name>Admirals Club</lounge_name>
+      <lounge_location>Terminal 3</lounge_location>
+      <lounge_hours>Sun-Fri 05:00-22:00, Sat 05:00-21:30</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Free Wi-Fi, TV</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Copenhagen">
+      <airport code="CPH">Copenhagen Airport</airport>
+      <lounge_name>CPH Apartment</lounge_name>
+      <lounge_location>Terminal 2, 1st level, between pier A and B</lounge_location>
+      <lounge_hours>Sun-Fri 05:00-20:30, Sat 05:00-20:00</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Meals, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Curacao">
+      <airport code="CUR">Curacao International Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Departure level</lounge_location>
+      <lounge_hours>08:00-20:0s0 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Fort Myers">
+      <airport code="RSW">Southwest Florida International Airport</airport>
+      <lounge_name>Air Berlin Lounge</lounge_name>
+      <lounge_location>Within the security zone</lounge_location>
+      <lounge_hours>From 4 hours prior to departure</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Gdansk">
+      <airport code="GDN">Gdansk Lech Walesa Airport</airport>
+      <lounge_name>Executive Lounge</lounge_name>
+      <lounge_location>Terminal 2, Departure level 1 </lounge_location>
+      <lounge_hours>During airport operation hours</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Gothenburg">
+      <airport code="GOT">Goteborg Landvetter Airport</airport>
+      <lounge_name>Menzies Executive Lounge</lounge_name>
+      <lounge_location>After security check, Schenegen area, near Gate 18</lounge_location>
+      <lounge_hours>Mon-Thu 05:30-21:15, Fri/Sat 05:30-19:30, Sun 05:30-20:30</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Gran Canaria">
+      <airport code="LPA">Gran Canaria Airport</airport>
+      <lounge_name>Sala Galdos</lounge_name>
+      <lounge_location>Level 2, Departures</lounge_location>
+      <lounge_hours>06:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV,  Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Graz">
+      <airport code="GRZ">Graz Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Departures level, 1st floor</lounge_location>
+      <lounge_hours>Departure times</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <other_info>Because of the lounge's automated admission check, our premium customers receive a barcode voucher as the Priority Check-in to open the lounge.</other_info>
+    </city>
+
+    <city name="Havana">
+      <airport code="HAV">Jose Marti International Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Terminal 3, Departure area</lounge_location>
+      <lounge_hours>Starting 3 hours before departure</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Helsinki">
+      <airport code="HEL">Helsinki Airport</airport>
+      <lounge_name>Finnair Lounge</lounge_name>
+      <lounge_location>Terminal 2 Schengen, 2nd level above Gates 25 and 26</lounge_location>
+      <lounge_hours>06:00-24:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Krakow">
+      <airport code="KRK">John Paul II International Airport Krakow-Balice</airport>
+      <lounge_name>Business Lounge</lounge_name>
+      <lounge_location>Terminal T1, level 1, behind the security check</lounge_location>
+      <lounge_hours>05:00-19:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Lanzarote">
+      <airport code="ACE">Lanzarote Airport</airport>
+      <lounge_name>Sala VIP Guacimeta</lounge_name>
+      <lounge_location>After the security check, Terminal 1, near gates 8 and 9</lounge_location>
+      <lounge_hours>06:00-22:20 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Los Angeles">
+      <airport code="LAX">Los Angeles International Airport</airport>
+      <lounge_name>Qantas Business Lounge</lounge_name>
+      <lounge_location>Level 5, Tom Bradley International Terminal</lounge_location>
+      <lounge_hours>06:30-01:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Free Wi-Fi, Shower facilities</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Madrid">
+      <airport code="MAD">Adolfo Suarez Madrid-Barajas Airport</airport>
+      <lounge_name>Sala Dali</lounge_name>
+      <lounge_location>Terminal 4, level 2</lounge_location>
+      <lounge_hours>06:00-24:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Malaga">
+      <airport code="AGP">Malaga Airport</airport>
+      <lounge_name>AENA  Lounge</lounge_name>
+      <lounge_location>Terminal 3, in departures area D, 1st floor</lounge_location>
+      <lounge_hours>06:00-23:00 daily</lounge_hours>
+      <lounge_facilities>Coctails and non-alcoholic drinks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Miami">
+      <airport code="MIA">Miami International Airport</airport>
+      <lounge_name>Premium Lounge</lounge_name>
+      <lounge_location>Terminal E, level 5, departure gate E10</lounge_location>
+      <lounge_hours>13:00-21:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Milan-Linate">
+      <airport code="LIN">Linate Airport</airport>
+      <lounge_name>Sala Manzoni</lounge_name>
+      <lounge_location>Departure area</lounge_location>
+      <lounge_hours>05:30-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Naples">
+      <airport code="NAP">Naples International Airport</airport>
+      <lounge_name>VIP Lounge Caruso</lounge_name>
+      <lounge_location>Departure area, opposite gate 17</lounge_location>
+      <lounge_hours>05:00-21:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="New York">
+      <airport code="JFK">John F. Kennedy International Airport</airport>
+      <lounge_name>Admirals Club</lounge_name>
+      <lounge_location>Terminal 8, hall B after gate 12</lounge_location>
+      <lounge_hours>05:15-22:00 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Nice">
+      <airport code="NCE">Nice Cote d'Azur International Airport</airport>
+      <lounge_name>Salon AZUR</lounge_name>
+      <lounge_location>Terminal 1 - airside, 2nd floor</lounge_location>
+      <lounge_hours>06:00-21:30 daily</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Olbia">
+      <airport code="OLB">Olbia Costa Smeralda Airport</airport>
+      <lounge_name>Club Lounge</lounge_name>
+      <lounge_location>Departure level near Gate 1</lounge_location>
+      <lounge_hours>06:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Palma de Mallorca">
+      <airport code="PMI">Palma de Mallorca Airport</airport>
+      <lounge_name>Sala Valldemosa</lounge_name>
+      <lounge_location>Terminal C entrance</lounge_location>
+      <lounge_hours>06:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="PMI">Palma de Mallorca Airport</airport>
+      <lounge_name>Sala Formentor</lounge_name>
+      <lounge_location>Terminal D</lounge_location>
+      <lounge_hours>06:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Prague">
+      <airport code="PRG">Vaclav Havel Airport Prague</airport>
+      <lounge_name>ERSTE Premier Lounge</lounge_name>
+      <lounge_location>Terminal 2</lounge_location>
+      <lounge_hours>05:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Puerto Plata">
+      <airport code="POP">Gregorio Luperon International Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Below Gate 6</lounge_location>
+      <lounge_hours>During airport operating hours</lounge_hours>
+      <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Punta Cana">
+      <airport code="PUJ">Punta Cana International Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Terminal 2</lounge_location>
+      <lounge_hours>08:00-23:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Bar, Snacks, Internet</lounge_facilities>
+      <other_info>The VIP Lounge service does not include consumption of alcoholic beverages. Service will be available at Lounge Bar subjected to passenger payment.</other_info>
+    </city>
+
+    <city name="Rome">
+      <airport code="FCO">Leonardo da Vinci-Fiumicino Airport</airport>
+      <lounge_name>Dolce Vita Lounge</lounge_name>
+      <lounge_location>Departure area, Termnal 1</lounge_location>
+      <lounge_hours>05:30-23:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Salzburg">
+      <airport code="SZG">Salzburg Airport</airport>
+      <lounge_name>Business Lounge</lounge_name>
+      <lounge_location>Terminal 1, Departure Hall</lounge_location>
+      <lounge_hours>05:00-21:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="San Francisco">
+      <airport code="SFO">San Francisco International Airport</airport>
+      <lounge_name>Air France Lounge</lounge_name>
+      <lounge_location>Departure level, International terminal, Concourse A</lounge_location>
+      <lounge_hours>03:15-23:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Stockholm">
+      <airport code="ARN">Stockholm Arlanda Airport</airport>
+      <lounge_name>Menzies Executive Lounge</lounge_name>
+      <lounge_location>Terminal 2: left after the security check, on the left lift to level 2</lounge_location>
+      <lounge_hours>Mon-Fri 05:15-20:45, Sat 05:30-20:30, Sun 05:30-20:45</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="ARN">Stockholm Arlanda Airport</airport>
+      <lounge_name>Menzies Executive Lounge</lounge_name>
+      <lounge_location>Terminal 5: F-Pier, after the Schengen area security check</lounge_location>
+      <lounge_hours>Mon-Fri 05:15-20:45, Sat 05:30-20:30, Sun 05:30-20:45</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Tel Aviv">
+      <airport code="TLV">Ben Gurion Airport</airport>
+      <lounge_name>Dan Lounge</lounge_name>
+      <lounge_location>Hall B</lounge_location>
+      <lounge_hours>24 hours daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Tenerife South">
+      <airport code="TFS">Tenerife-South Airport</airport>
+      <lounge_name>Sala Montana Roja</lounge_name>
+      <lounge_location>After security, at the elevators left to the boarding gates</lounge_location>
+      <lounge_hours>Sat-Thu 07:00-21:00 Fri 07:00-24:00</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Valencia">
+      <airport code="VLC">Valencia Airport</airport>
+      <lounge_name>Sala Joan Olivert</lounge_name>
+      <lounge_location>After security, on level 1, between terminals 1 and R near gate A1</lounge_location>
+      <lounge_hours>05:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Varadero">
+      <airport code="VRA">Juan Gualberto Gomez Airport</airport>
+      <lounge_name>VIP Lounge</lounge_name>
+      <lounge_location>Departure level, within the security zone</lounge_location>
+      <lounge_hours>During airport operating hours</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Internet, Telephone, Fax, TV</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Venice">
+      <airport code="VCE">Venice Marco Polo Airport</airport>
+      <lounge_name>Sala Tintoretto</lounge_name>
+      <lounge_location>Departure area</lounge_location>
+      <lounge_hours>05:30-20:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Vienna">
+      <airport code="VIE">Vienna International Airport</airport>
+      <lounge_name>Jet Lounge</lounge_name>
+      <lounge_location>Before security check</lounge_location>
+      <lounge_hours>05:00-22:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snack buffet, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+
+      <airport code="VIE">Vienna International Airport</airport>
+      <lounge_name>AIR Lounge</lounge_name>
+      <lounge_location>After security check - non-Schengen area</lounge_location>
+      <lounge_hours>05:00-24:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Warsaw">
+      <airport code="WAW">Warsaw Chopin Airport</airport>
+      <lounge_name>Fantazja Executive Lounge</lounge_name>
+      <lounge_location>Schengen, level 1, next to Gates 36-37</lounge_location>
+      <lounge_hours>05:00-23:00 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+
+    <city name="Zurich">
+      <airport code="ZRH">Zurich Airport</airport>
+      <lounge_name>Aspire Lounge</lounge_name>
+      <lounge_location>Security area, airside center between Terminals A and B, level 3</lounge_location>
+      <lounge_hours>05:30-21:30 daily</lounge_hours>
+      <lounge_facilities>Alcoholic and non-alcoholic drinks, Meals, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <other_info></other_info>
+    </city>
+  </location>
+
+</airport_lounges>
