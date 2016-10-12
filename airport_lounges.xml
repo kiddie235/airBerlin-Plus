@@ -8,108 +8,173 @@
       <lounge_location>Terminal A, 3rd Floor</lounge_location>
       <lounge_hours>04:45-21:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/sl1i0ayvr/berlin1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/z00iwz5lj/berlin2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/mmnoq2fx3/berlin3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Düsseldorf">
-      <airport code="DUS">Düsseldorf  Airport</airport>
+      <airport code="DUS">Düsseldorf Airport</airport>
       <lounge_name>Air Berlin Lounge</lounge_name>
       <lounge_location>Area C non-Schengen</lounge_location>
       <lounge_hours>06:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/tnpgo2luf/Airberlin_Lounge_Dusseldorf_05.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/4wzsa96hj/Airberlin_Lounge_Dusseldorf_22.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/vgsdce713/Airberlin_Lounge_Dusseldorf_06.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
-      <airport code="DUS">Düsseldorf  Airport</airport>
+      <airport code="DUS">Düsseldorf Airport</airport>
       <lounge_name>Hugo Junkers Lounge</lounge_name>
       <lounge_location>Area B Schengen</lounge_location>
       <lounge_hours>05:15-21:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Wi-Fi, Shower facilities,Business center with PC and internet</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/kvd3e4q3b/hugo1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/wlr0viivr/hugo2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/lnkcr2jo7/hugo3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Frankfurt">
-      <airport code="FRA">Frankfurt  Airport</airport>
+      <airport code="FRA">Frankfurt Airport</airport>
       <lounge_name>Air France Lounge</lounge_name>
       <lounge_location>Schengen zone, behind Gate 24</lounge_location>
       <lounge_hours>Summer 05:45-20:15, Winter 04:45-19:45</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/ikafw7pxz/Air_France_Lounge_Frankfurt_Airport_16.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/g48mid7vb/Air_France_Lounge_Frankfurt_Airport_18.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/swwqiajh3/Air_France_Lounge_Frankfurt_Airport_19.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Hamburg">
-      <airport code="HAM">Hamburg  Airport</airport>
+      <airport code="HAM">Hamburg Airport</airport>
       <lounge_name>Airport Lounge</lounge_name>
       <lounge_location>Airport Plaza, 3rd level - airside</lounge_location>
       <lounge_hours>05:30-21:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/m4a5r8wt3/hburg1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/jbgy77wgn/hburg2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/zazlqrsif/hburg3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Hannover">
-      <airport code="HAJ">Hannover  Airport</airport>
+      <airport code="HAJ">Hannover Airport</airport>
       <lounge_name>Karl Jatho Lounge</lounge_name>
       <lounge_location>Landside between Terminal A and B</lounge_location>
       <lounge_hours>04:45-21:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/ibqnbihav/516d14e37417b_HAJ_KARL_JATHO_1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/vh65hmb6f/516d15055a52d_HAJ_KARL_JATHO_2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/q9l2jpm8n/hankarl1.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
-      <airport code="HAJ">Hannover  Airport</airport>
-      <lounge_name>Hannover Club  Lounge</lounge_name>
+      <airport code="HAJ">Hannover Airport</airport>
+      <lounge_name>Hannover Club Lounge</lounge_name>
       <lounge_location>Terminal C, 1st Floor</lounge_location>
       <lounge_hours>24 hours a day</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/q9l2d5ul3/hanclub1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/qav06kwev/hanclub2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/ea9k5up07/hanclub3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Munich">
-      <airport code="MUC">Munich  Airport</airport>
+      <airport code="MUC">Munich Airport</airport>
       <lounge_name>Atlantic Lounge</lounge_name>
       <lounge_location>Terminal 1, Departure Hall C, Level 03</lounge_location>
       <lounge_hours>06:00-23:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/phrlbzwt3/munich1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/h0woethhz/munich2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/99fyg9dcn/munich3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
-      <airport code="MUC">Munich  Airport</airport>
+      <airport code="MUC">Munich Airport</airport>
       <lounge_name>Europa Lounge</lounge_name>
       <lounge_location>Terminal 1, Departure Hall D, Level 05</lounge_location>
       <lounge_hours>Mon-Fri 07:00-20:30, Sat 8:00-19:00, Sun 09:00-20:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/z4qyrchcn/europamun1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/ntob2zahj/europamun2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/64wkbcyqf/europamun3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Nuremberg">
-      <airport code="HAM">Nuremberg  Airport</airport>
+      <airport code="NUE">Nuremberg Airport</airport>
       <lounge_name>Noris Sky Lounge</lounge_name>
       <lounge_location>Gate 8</lounge_location>
       <lounge_hours>04:30-23:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Wi-Fi, PC, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5yrlgdnfb/nurburg1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/a969bysif/nurburg2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/isu8ngq8n/nurburg3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Saarbrücken">
-      <airport code="SCN">Saarbrücken  Airport</airport>
+      <airport code="SCN">Saarbrücken Airport</airport>
       <lounge_name>SCN Business Class Lounge</lounge_name>
       <lounge_location>At the gates, security area</lounge_location>
       <lounge_hours>During airport operation hours</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/eeqcpd51z/csm_Business_Lounge1_01_f8b530f3ba.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/yamc4wm3b/csm_Business_Lounge2_995a6392a1.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/o1tuz2y1j/csm_Business_Lounge3_2344244f65.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Stuttgart">
-      <airport code="STR">Stuttgart  Airport</airport>
+      <airport code="STR">Stuttgart Airport</airport>
       <lounge_name>Executive Club Lounge</lounge_name>
       <lounge_location>Terminal 1, lounge area</lounge_location>
       <lounge_hours>Mon-Fri and Sun 05:30-20:30, Sat 05:30-19:30</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcholic drinks, Snacks, Internet, TV, Newspapers and Magazines, Shower facilities</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/o9qon2nrr/stutt1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/pdasz18ev/stutt2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/5jyp6bv13/stutt3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
     <city name="Sylt">
-      <airport code="GWT">Sylt  Airport</airport>
+      <airport code="GWT">Sylt Airport</airport>
       <lounge_name>Sylt Lounge</lounge_name>
       <lounge_location>Departure level</lounge_location>
       <lounge_hours>During flight operation hours</lounge_hours>
       <lounge_facilities>Non-alcholic beverages, Prosecco, Snacks, Newspapers, Free WLAN</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/fvb1yzmqf/Sylt_Lounge.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/yc5gpt2on/sylt1.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/4lic41hp3/sylt2.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
   </location>
@@ -121,6 +186,11 @@
       <lounge_location>Gate area, Terminal 1</lounge_location>
       <lounge_hours>From 3 hours prior to departure</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, International buffet, Free Wi-Fi, Newspapers and Magazines, Shower facilities, Family room, Six senses Spa</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5451nsnx3/ad_etihad1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/8c9j0ua6v/ad_etihad2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/zbddvzwnr/ad_etihad3.jpg"</third_image_url>
+      </lounge_images>
       <other_info>For Business Platinum Class passengers and Topbonus Platinum Cardholders</other_info>
 
       <airport code="AUH">Abu Dhabi International Airport</airport>
@@ -128,6 +198,11 @@
       <lounge_location>Gate area, Terminal 1</lounge_location>
       <lounge_hours>From 3 hours prior to departure</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, International buffet, Free Wi-Fi, Newspapers and Magazines, Shower facilities, Family room, Six senses Spa</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/q9yuidyqf/572105e94b6aa_P1900535_1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/iii4jtul3/AL_Reem_Lounge_3rd_Floor_tcm13_13491.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/d8d5sjac7/c92f81689e997a105cfb429c144fc1941415098143.jpg"</third_image_url>
+      </lounge_images>
       <other_info>For Topbonus Gold Cardholders</other_info>
     </city>
 
@@ -137,6 +212,11 @@
       <lounge_location>Airside - after security control, 3rd level</lounge_location>
       <lounge_hours>06:00-24:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/8220hhvkn/ALC_001.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/8g3ch3fo7/ALC_002.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/nq37oab6f/ALC_003.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -146,6 +226,11 @@
       <lounge_location>Departure lounge at gate B31</lounge_location>
       <lounge_hours>04:20-20:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/9l2007riv/athens1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/6s8sg6r6f/athens2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/3zfkw5qtz/athens3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -155,6 +240,11 @@
       <lounge_location>Terminal 1</lounge_location>
       <lounge_hours>05:00-22:15 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks,  Wi-Fi, TV, Newspapers and Magazines, Shower facilities</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5fr3eatqv/barcelona1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/sihmdgv87/barcelona2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/439ecewbb/barcelona3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -164,6 +254,11 @@
       <lounge_location>Departures level, 2nd floor</lounge_location>
       <lounge_hours>Mon-Fri 05:30-21:30, Sat/Sun 06:00-21:30</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/w8h96d72v/bilbao1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/cs14xl1cn/bilbao2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/7hw66ah3r/bilbao3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -173,6 +268,11 @@
       <lounge_location>Departure area</lounge_location>
       <lounge_hours>Open daily from 4:45 a.m. until the last departure</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/o6xm27dp3/billund1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/hhr2m6sd3/billund2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/aft4zzorb/billund3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -182,6 +282,11 @@
       <lounge_location>Departure area</lounge_location>
       <lounge_hours>05:00-21:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/atugzl8uv/bologna1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/n9r6tc26v/bologna2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/6n9mk9993/bologna3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -191,6 +296,11 @@
       <lounge_location>Departure level, Terminal E, Level 3</lounge_location>
       <lounge_hours>01:00-23:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free W-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/p441b2p7b/BOS8_002.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/lyjfkv6l3/BOS8_003.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/lyjfkv6l3/BOS8_003.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -200,6 +310,11 @@
       <lounge_location>Terminal 2, Gallery level</lounge_location>
       <lounge_hours>05:00-21:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Fax, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/xdki388bb/budapest1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/tv8i6u7fb/budapest2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/4qhhtf7yv/budapest3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -209,6 +324,11 @@
       <lounge_location>Area 3, Departure level</lounge_location>
       <lounge_hours>08:00-21:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines, Massage chairs</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/82fsmpzpz/mera_business_lounge_t3_cancun_05.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/c032c4mjb/mera_business_lounge_t3_cancun_06.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/e5xd6mpzr/mera_business_lounge_t3_cancun_07.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -218,6 +338,11 @@
       <lounge_location>Departure area</lounge_location>
       <lounge_hours>05:30-21:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/unb661bmf/catania1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/bw98vvh1z/catania2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/av906r02f/catania3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -227,6 +352,11 @@
       <lounge_location>Terminal 3</lounge_location>
       <lounge_hours>Sun-Fri 05:00-22:00, Sat 05:00-21:30</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Free Wi-Fi, TV</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5p2g9gaon/Admirals_Club_Chicago_ORD_5_of_27.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/3yjf7yt5j/Admirals_Club_Chicago_ORD_7_of_27.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/adig4mzvb/Admirals_Club_Chicago_ORD_14_of_27.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -236,6 +366,11 @@
       <lounge_location>Terminal 2, 1st level, between pier A and B</lounge_location>
       <lounge_hours>Sun-Fri 05:00-20:30, Sat 05:00-20:00</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Meals, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/l99tzzkt3/cph_apartment_lounge_copenhagen_06.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/v7ze07jmf/cph_apartment_lounge_copenhagen_07.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/v99btmlg7/cph_apartment_lounge_copenhagen_09.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -245,6 +380,11 @@
       <lounge_location>Departure level</lounge_location>
       <lounge_hours>08:00-20:0s0 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/dx8z86ryv/CUR_001.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/ikf19yfbr/CUR_002.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/5uaswv7dj/CUR_003.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -254,6 +394,11 @@
       <lounge_location>Within the security zone</lounge_location>
       <lounge_hours>From 4 hours prior to departure</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5lmvochxz/fmyers.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/nppw8zfmf/fmyers1.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/612qv3t93/fmyers2.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -263,6 +408,11 @@
       <lounge_location>Terminal 2, Departure level 1 </lounge_location>
       <lounge_hours>During airport operation hours</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/6z4v28tuf/gdansk2.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/6aw0jav4n/gdansk3.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/onwltv5lj/gdansk1.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -272,6 +422,11 @@
       <lounge_location>After security check, Schenegen area, near Gate 18</lounge_location>
       <lounge_hours>Mon-Thu 05:30-21:15, Fri/Sat 05:30-19:30, Sun 05:30-20:30</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/ngn9fe4uv/gburg1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/eznr4h05z/gburg2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/olhbkrrbr/gburg3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -281,6 +436,11 @@
       <lounge_location>Level 2, Departures</lounge_location>
       <lounge_hours>06:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV,  Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/f27mrb3tj/gcanaria1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/5ixxxugbb/gcanaria2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/petxddxcn/gcanaria3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -290,6 +450,11 @@
       <lounge_location>Departures level, 1st floor</lounge_location>
       <lounge_hours>Departure times</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines, Free Wi-Fi</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/58qfei1p3/graz1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/usspkxn2v/graz2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/qkxxc6lnb/graz3.jpg"</third_image_url>
+      </lounge_images>
       <other_info>Because of the lounge's automated admission check, our premium customers receive a barcode voucher as the Priority Check-in to open the lounge.</other_info>
     </city>
 
@@ -299,6 +464,11 @@
       <lounge_location>Terminal 3, Departure area</lounge_location>
       <lounge_hours>Starting 3 hours before departure</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/ygd2bacbb/havana1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/3nfr6z8if/havana2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/stlarjz6f/Salon_VIP_havana.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -308,6 +478,11 @@
       <lounge_location>Terminal 2 Schengen, 2nd level above Gates 25 and 26</lounge_location>
       <lounge_hours>06:00-24:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/vv7hh7v9z/Finnair_Lounge_Helsinki_Airport_9.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/zg3d0fztj/Finnair_Lounge_Helsinki_Airport_13.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/jhungux93/Finnair_Lounge_Helsinki_Airport_15.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -317,6 +492,11 @@
       <lounge_location>Terminal T1, level 1, behind the security check</lounge_location>
       <lounge_hours>05:00-19:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/53r9p4bfb/krakow1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/cxrvaij87/krakow2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/cmaexr2s7/krakow3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -326,6 +506,11 @@
       <lounge_location>After the security check, Terminal 1, near gates 8 and 9</lounge_location>
       <lounge_hours>06:00-22:20 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/e2lxfw5p3/lanz1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/6nwlnijtj/lanz2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/3v3e3hjh3/lanz3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -335,6 +520,11 @@
       <lounge_location>Level 5, Tom Bradley International Terminal</lounge_location>
       <lounge_hours>06:30-01:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Free Wi-Fi, Shower facilities</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/6dtohwul3/losang1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/v8d6bzffb/losang2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/ii8xyw7h3/losang3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -344,6 +534,11 @@
       <lounge_location>Terminal 4, level 2</lounge_location>
       <lounge_hours>06:00-24:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/u0z8jrpav/madrid1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/8slk2catz/madrid2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/7etx71bkn/madrid3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -353,6 +548,11 @@
       <lounge_location>Terminal 3, in departures area D, 1st floor</lounge_location>
       <lounge_hours>06:00-23:00 daily</lounge_hours>
       <lounge_facilities>Coctails and non-alcoholic drinks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/wz0sr7mc7/malaga1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/oi1agahnb/malaga2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/s2x5zim6v/malaga3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -362,6 +562,11 @@
       <lounge_location>Terminal E, level 5, departure gate E10</lounge_location>
       <lounge_hours>13:00-21:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/yhw6w6swn/MIA_premium_lounge_mia_pr_01_1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/gt4g4kh5j/MIA_premium_lounge_mia_pr_02_1.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/lt1wcims7/MIA_premium_lounge_mia_pr_03_1.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -371,6 +576,11 @@
       <lounge_location>Departure area</lounge_location>
       <lounge_hours>05:30-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/rii4wtsyf/mlinate1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/hz8g3d5g7/mlinate2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/mmei54st3/mlinate3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -380,6 +590,11 @@
       <lounge_location>Departure area, opposite gate 17</lounge_location>
       <lounge_hours>05:00-21:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/v9wawvw0n/naples1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/o7ydaosev/naples2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/asbcl8jx3/naples3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -389,6 +604,11 @@
       <lounge_location>Terminal 8, hall B after gate 12</lounge_location>
       <lounge_hours>05:15-22:00 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/i81ffjsuv/jfk1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/q2210y0nr/jfk2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/6lhbef5jr/jfk3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -398,6 +618,11 @@
       <lounge_location>Terminal 1 - airside, 2nd floor</lounge_location>
       <lounge_hours>06:00-21:30 daily</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/qru04sfyv/NICE3_003.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/ucpvo0kif/NICE3_005.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/b8wk7o7o7/NICE3_006.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -407,6 +632,11 @@
       <lounge_location>Departure level near Gate 1</lounge_location>
       <lounge_hours>06:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/h2b7lz8pj/OLB_002.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/rqeyktion/OLB_007.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/sh7oqll1z/olbia1.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -416,6 +646,11 @@
       <lounge_location>Terminal C entrance</lounge_location>
       <lounge_hours>06:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/65ehaybbr/salaval1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/5tx0y6uvr/salaval2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/4sws92dw7/salaval3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
       <airport code="PMI">Palma de Mallorca Airport</airport>
@@ -423,6 +658,11 @@
       <lounge_location>Terminal D</lounge_location>
       <lounge_hours>06:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/61knup5uf/salafor1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/e8cnm9vx3/salafor2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/76eq02sbb/salafor3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -432,6 +672,11 @@
       <lounge_location>Terminal 2</lounge_location>
       <lounge_hours>05:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/8ey07yuvr/prag1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/4737z7tg7/prag2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/7f7pc9fpz/prag3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -441,6 +686,11 @@
       <lounge_location>Below Gate 6</lounge_location>
       <lounge_hours>During airport operating hours</lounge_hours>
       <lounge_facilities>Cocktails and non-alcoholic beverages, Snacks, Internet, TV</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/4equvq4ev/pplata1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/5iaz7op1z/pplata2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/nz5dyi507/pplata3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -450,6 +700,11 @@
       <lounge_location>Terminal 2</lounge_location>
       <lounge_hours>08:00-23:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Bar, Snacks, Internet</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/z2p043qaf/PUJ2_002.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/jvdlxhntj/PUJ2_003.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/kyxq9g8gn/PUJ2_004.jpg"</third_image_url>
+      </lounge_images>
       <other_info>The VIP Lounge service does not include consumption of alcoholic beverages. Service will be available at Lounge Bar subjected to passenger payment.</other_info>
     </city>
 
@@ -459,6 +714,11 @@
       <lounge_location>Departure area, Termnal 1</lounge_location>
       <lounge_hours>05:30-23:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/wck9knizb/rome1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/t6znug0d3/rome2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/oz4vloyxj/rome3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -468,6 +728,11 @@
       <lounge_location>Terminal 1, Departure Hall</lounge_location>
       <lounge_hours>05:00-21:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/mvuge0z4n/salz1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/who0ubqaf/salz2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/4itv3gonr/salz3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -477,6 +742,11 @@
       <lounge_location>Departure level, International terminal, Concourse A</lounge_location>
       <lounge_hours>03:15-23:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/o1ygctnfb/sfo1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/tenaqybbr/sfo2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/4ms9xgjiv/sfo3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -486,6 +756,11 @@
       <lounge_location>Terminal 2: left after the security check, on the left lift to level 2</lounge_location>
       <lounge_hours>Mon-Fri 05:15-20:45, Sat 05:30-20:30, Sun 05:30-20:45</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/z5i2if8pj/stock1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/qoik7i40n/stock2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/413b1cogn/stock3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
       <airport code="ARN">Stockholm Arlanda Airport</airport>
@@ -493,6 +768,11 @@
       <lounge_location>Terminal 5: F-Pier, after the Schengen area security check</lounge_location>
       <lounge_hours>Mon-Fri 05:15-20:45, Sat 05:30-20:30, Sun 05:30-20:45</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic beverages, Snacks, Free Wi-Fi, PC, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/z5i2if8pj/stock1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/qoik7i40n/stock2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/413b1cogn/stock3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -502,6 +782,11 @@
       <lounge_location>Hall B</lounge_location>
       <lounge_hours>24 hours daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Internet, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/whx7lt51z/taviv1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/7d678e5lj/taviv2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/i19y78fkn/taviv3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -511,6 +796,11 @@
       <lounge_location>After security, at the elevators left to the boarding gates</lounge_location>
       <lounge_hours>Sat-Thu 07:00-21:00 Fri 07:00-24:00</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/yinr6n17b/lounge_sala_vip_rojo_tenerife_sur.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/ws4q55jo7/seating_sala_vip_rojo_tenerife_sur.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/cm1869o0n/seating_sala_vip_rojo_tenerife_sur_4.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -520,6 +810,11 @@
       <lounge_location>After security, on level 1, between terminals 1 and R near gate A1</lounge_location>
       <lounge_hours>05:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/s7n53ypcn/VLC_001.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/avmsiivvb/VLC_004.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/o12aompqv/VLC_005.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -529,6 +824,11 @@
       <lounge_location>Departure level, within the security zone</lounge_location>
       <lounge_hours>During airport operating hours</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Internet, Telephone, Fax, TV</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/jyb9pjvmf/varadero_airport_34.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/6vfn6a5ef/varadero_airport_36.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/3pv1g2ms7/vip_lounge_varadero_airport_varadero_006_web.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -538,6 +838,11 @@
       <lounge_location>Departure area</lounge_location>
       <lounge_hours>05:30-20:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/a3p6gfxzr/venice1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/jpiqwqp5j/venice2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/9thnx3jdj/venice3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -547,6 +852,11 @@
       <lounge_location>Before security check</lounge_location>
       <lounge_hours>05:00-22:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snack buffet, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/t3f15o9nb/51403029add09_VIE_JET.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/j7dy613vb/51403055840b9_VIE_JET_3.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/jy6obt68n/514031077893e_VIE_JET_4.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
 
       <airport code="VIE">Vienna International Airport</airport>
@@ -554,6 +864,11 @@
       <lounge_location>After security check - non-Schengen area</lounge_location>
       <lounge_hours>05:00-24:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Snacks, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/5nx40bpw7/vair1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/5pbn7hh3r/vair2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/5qll0wixj/vair3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -563,6 +878,11 @@
       <lounge_location>Schengen, level 1, next to Gates 36-37</lounge_location>
       <lounge_hours>05:00-23:00 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Free Wi-Fi, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/jgg49p61j/war1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/bozeb51w7/war2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/wm0ocx68n/war3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
 
@@ -572,6 +892,11 @@
       <lounge_location>Security area, airside center between Terminals A and B, level 3</lounge_location>
       <lounge_hours>05:30-21:30 daily</lounge_hours>
       <lounge_facilities>Alcoholic and non-alcoholic drinks, Meals, Free Wi-Fi, TV, Newspapers and Magazines</lounge_facilities>
+      <lounge_images>
+        <first_image_url>"https://s5.postimg.org/ex8xlauhj/zur1.jpg"</first_image_url>
+        <second_image_url>"https://s5.postimg.org/thq0g4pg7/zur2.jpg"</second_image_url>
+        <third_image_url>"https://s5.postimg.org/ijeqxy0uv/zur3.jpg"</third_image_url>
+      </lounge_images>
       <other_info></other_info>
     </city>
   </location>
